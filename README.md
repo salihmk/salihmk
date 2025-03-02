@@ -1,4 +1,2 @@
 ## My Publications
-<!--
-Check out my publications [(https://github.com/salihmk/Publications]).
--->
+https://github.com/salihmk/Publications
