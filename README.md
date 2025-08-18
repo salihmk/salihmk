@@ -1,6 +1,6 @@
 ## My Publications
 https://github.com/salihmk/Publications
-# 👋 Hi, I'm Salih
+#  I'm Mohammed Salih
 
 I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learning, and Software Development. I love turning ideas into impactful solutions.
 
@@ -33,4 +33,4 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “To be great is something great, but it is difficult to be great.”  
