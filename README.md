@@ -50,4 +50,4 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 
 ---
 
-> “To be great is something great, but it is difficult to be great.”  
+> *To be great is something great, but it is difficult to be great.* 
