@@ -18,7 +18,7 @@ Intelligent Automation & Soft Computing, 2025
 
 - **Minimum Data Set (MDS) in Saudi Arabia's Medical Claims Insurance**
 International Journal of Computer Science and Network Security, 2025
-[[DOI](https://10.22937/IJCSNS.2025.25.2.5])
+[[DOI](https://10.22937/IJCSNS.2025.25.2.5)]
 
 - **A Novel Metadata Based Multi-Label Document Classification Technique**
 Computer Systems Science and Engineering, 2023
@@ -26,11 +26,11 @@ Computer Systems Science and Engineering, 2023
 
 - **Joint Diagnosis of Pneumonia, COVID-19, and Tuberculosis from Chest X-ray Images: A Deep Learning Approach**
 Diagnostics, 2023
-[[[DOI](https://10.3390/diagnostics13152562])]
+[[DOI](https://10.3390/diagnostics13152562])]
 
 - **Single vs. Multi-Label: The Issues, Challenges and Insights of Contemporary Classification Schemes**
 Applied Sciences, 2023
-[[DOI:(https:// 10.3390/app13116804)]
+[[DOI](https://10.3390/app13116804)]
 
 ## 📈 GitHub Stats
 
