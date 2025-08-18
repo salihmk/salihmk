@@ -12,14 +12,25 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📚 Publications
+- **Diagnosing Retinal Eye Diseases: A Novel Transfer Learning Approach**
+Intelligent Automation & Soft Computing, 2025
+[DOI: 10.32604/iasc.2025.059080]
 
-- **Deep Learning for XYZ**  
-  _Conference on ABC, 2023_  
-  [Read Paper](https://example.com)
+- **Minimum Data Set (MDS) in Saudi Arabia's Medical Claims Insurance**
+International Journal of Computer Science and Network Security, 2025
+[DOI: 10.22937/IJCSNS.2025.25.2.5]
 
-- **AI in Healthcare**  
-  _Journal of DEF, 2022_  
-  [DOI Link](https://example.com)
+- **A Novel Metadata Based Multi-Label Document Classification Technique**
+Computer Systems Science and Engineering, 2023
+[DOI: 10.32604/csse.2023.033844]
+
+- **Joint Diagnosis of Pneumonia, COVID-19, and Tuberculosis from Chest X-ray Images: A Deep Learning Approach**
+Diagnostics, 2023
+[DOI: 10.3390/diagnostics13152562]
+
+- **Single vs. Multi-Label: The Issues, Challenges and Insights of Contemporary Classification Schemes**
+Applied Sciences, 2023
+[DOI: 10.3390/app13116804]
 
 ## 📈 GitHub Stats
 
