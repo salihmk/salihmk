@@ -1,6 +1,4 @@
-## My Publications
-https://github.com/salihmk/Publications
-#  I'm Mohammed Salih
+#  Mohammed Salih Ahmed
 
 I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learning, and Software Development. I love turning ideas into impactful solutions.
 
@@ -13,24 +11,32 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 
 ## 📚 Publications
 - **Diagnosing Retinal Eye Diseases: A Novel Transfer Learning Approach**
-Intelligent Automation & Soft Computing, 2025
-[[DOI]( https://doi.org/10.32604/iasc.2025.059080)]
+*Intelligent Automation & Soft Computing, 2025*
+[[DOI](https://doi.org/10.32604/iasc.2025.059080)]
+
+- **FutVi: Enhancing Decision Making with Dynamic KPI Insights**
+*International Journal of Computer Science and Network Security, 2025*
+[[DOI]([h](https://doi.org/10.22937/IJCSNS.2025.25.4.4)]
 
 - **Minimum Data Set (MDS) in Saudi Arabia's Medical Claims Insurance**
-International Journal of Computer Science and Network Security, 2025
+*International Journal of Computer Science and Network Security, 2025*
 [[DOI](https://doi.org/10.22937/IJCSNS.2025.25.2.5)]
 
 - **A Novel Metadata Based Multi-Label Document Classification Technique**
-Computer Systems Science and Engineering, 2023
+*Computer Systems Science and Engineering, 2023*
 [[DOI](https://doi.org/10.32604/csse.2023.033844])]
 
 - **Joint Diagnosis of Pneumonia, COVID-19, and Tuberculosis from Chest X-ray Images: A Deep Learning Approach**
-Diagnostics, 2023
+*Diagnostics, 2023*
 [[DOI](https://doi.org/10.3390/diagnostics13152562])]
 
 - **Single vs. Multi-Label: The Issues, Challenges and Insights of Contemporary Classification Schemes**
-Applied Sciences, 2023
+*Applied Sciences, 2023*
 [[DOI](https://doi.org/10.3390/app13116804)]
+
+- **Email Spam Classification: A Machine Learning Approach**
+*Hybrid Intelligent Systems (HIS 2023), Lecture Notes in Networks and Systems, vol 1224, Springer, Cham*
+[[DOI](https://doi.org/10.1007/978-3-031-78925-0_14)]
 
 ## 📈 GitHub Stats
 
