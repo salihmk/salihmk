@@ -14,7 +14,7 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 ## 📚 Publications
 - **Diagnosing Retinal Eye Diseases: A Novel Transfer Learning Approach**
 Intelligent Automation & Soft Computing, 2025
-[DOI: 10.32604/iasc.2025.059080]
+[[DOI:](https://10.32604/iasc.2025.059080)]
 
 - **Minimum Data Set (MDS) in Saudi Arabia's Medical Claims Insurance**
 International Journal of Computer Science and Network Security, 2025
