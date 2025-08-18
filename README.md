@@ -16,7 +16,7 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 
 - **FutVi: Enhancing Decision Making with Dynamic KPI Insights**
 *International Journal of Computer Science and Network Security, 2025*
-[[DOI]([h](https://doi.org/10.22937/IJCSNS.2025.25.4.4)]
+[[DOI](https://doi.org/10.22937/IJCSNS.2025.25.4.4)]
 
 - **Minimum Data Set (MDS) in Saudi Arabia's Medical Claims Insurance**
 *International Journal of Computer Science and Network Security, 2025*
