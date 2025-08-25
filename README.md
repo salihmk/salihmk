@@ -49,6 +49,7 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 [![SciProfiles](https://img.shields.io/badge/-SciProfiles-1A76D2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOCwwQzMuNTgyLDAwLDAuMDAwLDMuNTgyLDAuMDAwLDhDMC4wMDAsMTIuNDgyLDMuNTgyLDE2LDgsMTZDMTIuNDgyLDE2LDE2LDAuMDAwLDE2LDhDMTYsMy41ODIsMTIuNDgyLDAwLDgsMFogTTgsMS41QzExLjU4MiwxLjUsMTQuNSw0LjQxOCwxNC41LDhDMTQuNSwxMS41ODIsMTEuNTgyLDE0LjUsOCwxNC41QzQuNDE4LDE0LjUsMS41LDExLjU4MiwxLjUsOEMxLjUsNC40MTgsNC40MTgsMS41LDgsMS41WiIvPjwvc3ZnPg==&logoColor=white)](https://sciprofiles.com/profile/2582236)
 [![ORCID](https://img.shields.io/badge/-ORCID-000000?style=flat&logo=orcid&logoColor=brightgreen)](https://orcid.org/0000-0003-3449-3125)
+[![Web of Science](https://img.shields.io/badge/-Web%20of%20Science-AB1368?style=flat&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/GWQ-8916-2022)
 
 ---
 
