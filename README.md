@@ -9,6 +9,14 @@
 ">
   Mohammed Salih Ahmed
 </h1>
+
+<style>
+@keyframes glow {
+  0% { text-shadow: 0 0 5px #ff6ec4, 0 0 10px #7873f5, 0 0 15px #4ade80; }
+  50% { text-shadow: 0 0 20px #ff6ec4, 0 0 30px #7873f5, 0 0 40px #4ade80; }
+  100% { text-shadow: 0 0 5px #ff6ec4, 0 0 10px #7873f5, 0 0 15px #4ade80; }
+}
+</style>
 I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learning, and Software Development. I love turning ideas into impactful solutions.
 
 ## 🔧 Technologies & Tools
