@@ -1,5 +1,13 @@
-#  Mohammed Salih Ahmed
-
+<h1 style="
+  font-size: 2.5em;
+  background: linear-gradient(90deg, #ff6ec4, #7873f5, #4ade80);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+">
+  Mohammed Salih Ahmed
+</h1>
 I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learning, and Software Development. I love turning ideas into impactful solutions.
 
 ## 🔧 Technologies & Tools
