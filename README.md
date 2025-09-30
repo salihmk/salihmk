@@ -64,7 +64,7 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 *Computers, Materials & Continua, 2021*
 [[DOI](https://doi.org/10.32604/cmc.2022.020823)]
 
-- **Improving Mental Healthcare Using a Human Centered Internet of Things-Model and Embedding Homomorphic Encryption Scheme**
+- **Improving Mental Healthcare Using a Human Centered Internet of Things-Model & Embedding Homomorphic Encryption Scheme**
 *Journal of Computational and Theoretical Nanoscience, 2019*
 [[DOI](https://doi.org/10.1166/jctn.2019.8149)]
 
