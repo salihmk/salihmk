@@ -48,6 +48,27 @@ I'm a Computer Engineer passionate about Artificial Intelligence, Machine Learni
 *Hybrid Intelligent Systems (HIS 2023), Lecture Notes in Networks and Systems, vol 1224, Springer, Cham*
 [[DOI](https://doi.org/10.1007/978-3-031-78925-0_14)]
 
+- **Food Classification Using Deep Learning: Presenting a New Food Segmentation Dataset**
+*Mathematical Modelling of Engineering Problems, 2023*
+[[DOI](https://doi.org/10.18280/mmep.100336)]
+
+- **A Real-Time Computer Vision Based Approach to Detection and Classification of Traffic Incidents**
+*Big Data and Cognitive Computing, 2023*
+[[DOI](https://doi.org/10.3390/bdcc7010022)]
+
+- **A Neuro-Fuzzy Approach to Road Traffic Congestion Prediction**
+*Computers, Materials & Continua, 2022*
+[[DOI](https://doi.org/10.32604/cmc.2022.027925)]
+
+- **A Novel Cryptocurrency Prediction Method Using Optimum CNN**
+*Computers, Materials & Continua, 2021*
+[[DOI](https://doi.org/10.32604/cmc.2022.020823)]
+
+- **Improving Mental Healthcare Using a Human Centered Internet of Things-Model and Embedding Homomorphic Encryption Scheme**
+*Journal of Computational and Theoretical Nanoscience, 2019*
+[[DOI](https://doi.org/10.1166/jctn.2019.8149)]
+
+
 ## 📈 GitHub Stats
 
 ![Salih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salihmk&show_icons=true&theme=radical)
